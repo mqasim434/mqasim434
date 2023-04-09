@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mqasim434
 - 👀 I’m interested in computer programming and algorithms
 - 🌱 I’m currently learning Flutter Framework
-- 💞️ I’m looking to collaborate on small projects related web desiging.
+- 💞️ I’m looking to collaborate on small projects related Flutter.
 - 📫 Reach me on Whatsapp +92 304 6268933
 
 <!---
